@@ -27,12 +27,16 @@ Nos encontramos con un *dataset* muy heterogeneo, con un gran porcentaje de valo
 
 ### Limpieza de valores nulos
 Hay muchos registros con todos o casi todos sus valores nulos por lo que directamente los eliminamos. También se considera eliminar los registros con más del 75% de sus valores nulos o 0.  
+  
 A partir de este momento, exploramos columna a columna intentando completar los valores nulos restantes. En su mayoría se desconoce el dato. Sin embargo hay otras columnas que guardan cierta relación como puedan ser 'Injury' (tipo de lesión) la cual usaremos para intentar determinar si la victima murió o sobrevivió en la columna 'Fatal (Y/N)'. También pudimos completar los valores de la columna 'Year', a partir de la columna 'Date'.  
 ### Limpieza de valores erroneos
 En este momento hemos limpiado nuestro *DataFrame* de valores nulos pero en su mayoría siguen siendo inconsistentes y de poca utilidad, ya sea por su ambigüedad o por su formato.  
+  
 Ejemplo de mal formato es la columna 'Date', la cual intentamos redefinir. En la columna 'Case Number' decido numerarla de manera ordenada ya que la información que proporciona se repite identicamente en 3 columnas más.  
+  
 Así mismo, se llevan acabo procesos de limpieza en la como 'Country' en la cual sus valores se encontraban dispersos. Trato de acumularlos para su mejor manejo.  
 En la columna 'Sex' ocurre algo similar a 'Country' por lo que sigo un proceso similar.  
+  
 La columna 'Species' es probablemente la más dispersa de todas y para mí es de las que más valor tienen, ya que me interesa saber cual es la especie más involucrada en los ataques. Intento encontrar un patrón para sacar cosas en claro.
 ### Transformación del tipo de dato
 Aunque nuestro *DataFrame* no es tan extenso como para ocupar mucho espacio, siempre viene bien transformar los datos que se puedan para optimizar el uso de memoria.
