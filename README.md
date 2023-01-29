@@ -6,19 +6,19 @@ El objeto del presente proyecto es la utilización e interiorización de determi
 Link del dataset: https://www.kaggle.com/datasets/teajay/global-shark-attacks?resource=download
 
 ## OBJETIVOS DEL PROYECTO
-    1) Crear un repositorio en GitHub con una buena organización de los recursos.
-    2) Aplicar herramientas, técnicas y metodologías para la limpieza de datos:
-      - Exploración del conjunto de los datos
-      - Limpieza de valores nulos
-      - Toma de decisiones
-      - Corrección de valores erroneos
-      - Obtención de consistencia en los datos
-      - Transformación del tipo de dato para la optimización de memoria
-      - Librerías utilizadas: Pandas, Numpy, regex, pylab y seaborn
-    3) Aplicar restricciones para la limpieza:
-      - No se pueden eliminar columnas
-      - No pueden quedar menos de 1500 filas
-    4) Analizar descriptivamente el conjunto de datos para determinar el perfil de la víctima de ataque de tiburón.
+1. Crear un repositorio en GitHub con una buena organización de los recursos.
+2. Aplicar herramientas, técnicas y metodologías para la limpieza de datos:
+    - Exploración del conjunto de los datos
+    - Limpieza de valores nulos
+    - Toma de decisiones
+    - Corrección de valores erroneos
+    - Obtención de consistencia en los datos
+    - Transformación del tipo de dato para la optimización de memoria
+    - Librerías utilizadas: Pandas, Numpy, regex, pylab y seaborn
+3. Aplicar restricciones para la limpieza:
+    - No se pueden eliminar columnas
+    - No pueden quedar menos de 1500 filas
+4. Analizar descriptivamente el conjunto de datos para determinar el perfil de la víctima de ataque de tiburón.
 
 ## ANÁLISIS DE LOS DATOS
 ### Exploración general
