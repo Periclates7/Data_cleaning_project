@@ -22,7 +22,9 @@ Link del dataset: https://www.kaggle.com/datasets/teajay/global-shark-attacks?re
 
 ## ANÁLISIS DE LOS DATOS
 ### Exploración general
-Nos encontramos con un *dataset* muy heterogeneo, con un gran porcentaje de valores nulos o en su defecto, información poco consistente o con valores 0, tal y como se muestra en el gráfico, siendo la parte coloreada de amarillo la correspondiente a los valores nulos.
+Nos encontramos con un *dataset* muy heterogeneo, con un gran porcentaje de valores nulos o en su defecto, información poco consistente o con valores 0, tal y como se muestra en el gráfico, siendo la parte coloreada de amarillo la correspondiente a los valores nulos.  
+  
+  
 ![Graphic](https://github.com/Periclates7/Data_cleaning_project/blob/main/img/gr%C3%A1fico.png)
 
 ### Limpieza de valores nulos
