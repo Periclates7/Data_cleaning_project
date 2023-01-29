@@ -46,16 +46,16 @@ Aunque nuestro *DataFrame* no es tan extenso como para ocupar mucho espacio, sie
 ## CONCLUSIONES
 El perfil de la víctima de ataque de tiburón es el siguiente:
   - Hombre
-![Sex](https://github.com/Periclates7/Data_cleaning_project/blob/main/img/Sex.png)
+
   - 27 años de edad
-![Age](https://github.com/Periclates7/Data_cleaning_project/blob/main/img/Age.png)
+
   - Estadounidense
-![Country](https://github.com/Periclates7/Data_cleaning_project/blob/main/img/Country.png)
+
   - Surfeando
-![Activity](https://github.com/Periclates7/Data_cleaning_project/blob/main/img/Activity.png)
+
   - En otoño
-![Season](https://github.com/Periclates7/Data_cleaning_project/blob/main/img/Season.png)
+
   - Atacado por un tiburón blanco
-![Specie](https://github.com/Periclates7/Data_cleaning_project/blob/main/img/Specie.png)
+
   - Sobrevivió al ataque
-![Fatal](https://github.com/Periclates7/Data_cleaning_project/blob/main/img/Fatal.png)
+
