@@ -44,18 +44,39 @@ La columna 'Species' es probablemente la más dispersa de todas y para mí es de
 Aunque nuestro *DataFrame* no es tan extenso como para ocupar mucho espacio, siempre viene bien transformar los datos que se puedan para optimizar el uso de memoria.
 
 ## CONCLUSIONES
-El perfil de la víctima de ataque de tiburón es el siguiente:
-  - Hombre
+El perfil de la víctima de ataque de tiburón es el siguiente:  
 
-  - 27 años de edad
+  - Hombre  
 
-  - Estadounidense
+![Sex](https://github.com/Periclates7/Data_cleaning_project/blob/main/img/Sex.png)  
+  
+  
+  - 27 años de edad  
+  
+![Age](https://github.com/Periclates7/Data_cleaning_project/blob/main/img/Age.png)
+  
+  
+  - Estadounidense  
+  
+![Country](https://github.com/Periclates7/Data_cleaning_project/blob/main/img/Country.png)  
 
-  - Surfeando
 
-  - En otoño
+  - Surfeando  
+  
+![Activity](https://github.com/Periclates7/Data_cleaning_project/blob/main/img/Activity.png)  
 
-  - Atacado por un tiburón blanco
 
-  - Sobrevivió al ataque
+  - En otoño  
+  
+![Season](https://github.com/Periclates7/Data_cleaning_project/blob/main/img/Season.png)  
+
+
+  - Atacado por un tiburón blanco  
+  
+![Specie](https://github.com/Periclates7/Data_cleaning_project/blob/main/img/Specie.png)  
+
+
+  - Sobrevivió al ataque  
+  
+![Fatality](https://github.com/Periclates7/Data_cleaning_project/blob/main/img/Fatal.png)
 
