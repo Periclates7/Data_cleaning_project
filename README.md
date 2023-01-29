@@ -23,7 +23,8 @@ Link del dataset: https://www.kaggle.com/datasets/teajay/global-shark-attacks?re
 ## ANÁLISIS DE LOS DATOS
 ### Exploración general
 Nos encontramos con un *dataset* muy heterogeneo, con un gran porcentaje de valores nulos o en su defecto, información poco consistente o con valores 0, tal y como se muestra en el gráfico, siendo la parte coloreada de amarillo la correspondiente a los valores nulos.
-INCLUIR IMAGEN DEL GRÁFICO
+![Graphic](https://github.com/Periclates7/Data_cleaning_project/blob/main/img/gr%C3%A1fico.png)
+
 ### Limpieza de valores nulos
 Hay muchos registros con todos o casi todos sus valores nulos por lo que directamente los eliminamos. También se considera eliminar los registros con más del 75% de sus valores nulos o 0.
 A partir de este momento, exploramos columna a columna intentando completar los valores nulos restantes. En su mayoría se desconoce el dato. Sin embargo hay otras columnas que guardan cierta relación como puedan ser 'Injury' (tipo de lesión) la cual usaremos para intentar determinar si la victima murió o sobrevivió en la columna 'Fatal (Y/N)'. También pudimos completar los valores de la columna 'Year', a partir de la columna 'Date'.\n
