@@ -1,6 +1,6 @@
 ![Shark](https://i.pinimg.com/564x/3b/d3/8b/3bd38b1e5023bd66096faa2f777d8de6.jpg)
 
-# PROYECTO DE LIMPIEZA DE DATOS -> SHARKS
+# PROYECTO DE LIMPIEZA DE DATOS -> SHARKS🦈🦈🦈
 
 El objeto del presente proyecto es la utilización e interiorización de determinadas técnicas y metodologías de limpieza de datos. Para ello me he servido del *dataset* "Global Shark Attacks" el cual contiene registros de ataques de tiburones a personas en todo el mundo. 
 Link del dataset: https://www.kaggle.com/datasets/teajay/global-shark-attacks?resource=download
