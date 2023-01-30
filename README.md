@@ -2,8 +2,8 @@
 
 # PROYECTO DE LIMPIEZA DE DATOS -> SHARKS🦈🦈🦈
 
-El objeto del presente proyecto es la utilización e interiorización de determinadas técnicas y metodologías de limpieza de datos. Para ello me he servido del *dataset* "Global Shark Attacks" el cual contiene registros de ataques de tiburones a personas en todo el mundo. 
-Link del dataset: https://www.kaggle.com/datasets/teajay/global-shark-attacks?resource=download
+El objeto del presente proyecto es la utilización e interiorización de determinadas técnicas y metodologías de limpieza de datos. Para ello me he servido del *dataset* [Global Shark Attacks](https://www.kaggle.com/datasets/teajay/global-shark-attacks?resource=download) el cual contiene registros de ataques de tiburones a personas en todo el mundo. 
+
 
 ## OBJETIVOS DEL PROYECTO
 1. Crear un repositorio en GitHub con una buena organización de los recursos.
